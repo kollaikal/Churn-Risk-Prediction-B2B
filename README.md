@@ -49,7 +49,7 @@ Each script or module handles a specific concern (data simulation, modeling, ins
 **Ready for Growth**
 Can be expanded into a full-fledged SaaS offering, with additional integrations (e.g., CRMs, data warehouses).
 
-# Installation**
+# Installation
 **Clone this repository**:
 ```git clone https://github.com/yourusername/AI_SASS.git```
 ```cd AI_SASS```
@@ -68,7 +68,7 @@ This creates a synthetic CSV, you can use to test the pipeline.
 **config.yaml:** Contains environment-specific settings, hyperparameters.
 
 # Future Plans
-**Real Data Integration: ** Connect to actual B2B SaaS metrics (e.g., from a CRM or data warehouse).
+**Real Data Integration:** Connect to actual B2B SaaS metrics (e.g., from a CRM or data warehouse).
 **API Endpoints:** Serve predictions as a microservice or integrate with existing systems (e.g., Slack notifications).
 **CI/CD:** Set up automated tests and deployment pipelines (e.g., GitHub Actions).
 **Dashboard:** Add a user-facing UI for viewing churn predictions, insights, and recommended actions.
